@@ -1,6 +1,8 @@
 frontend-nanodegree-arcade-game
 ===============================
 
+![game](https://user-images.githubusercontent.com/21306433/42417144-264e56d2-8282-11e8-9f9f-3b1aaa42a77a.JPG)
+
 # Project Overview
 
 In this project I am given a game loop engine and visual assets, using these tools I must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
